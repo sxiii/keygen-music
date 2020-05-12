@@ -9,7 +9,7 @@ Large post with the idea behind this project is available here:
 * smaller post in Russian [golos.io](https://golos.io/@sxiii/keigen-radio-pereekhalo-na-blokchein-strimy-dlive-tv-securityxiii-1588972161390)
 * previous small russian post [duplicated on golos.today](https://golos.today/ru--muzyka/@sxiii/keigen-radio-pereekhalo-na-blokchein-strimy)
 
-https://github.com/sxiii/keygen-music/raw/master/KMR.png
+![KMOR-oldbg](https://github.com/sxiii/keygen-music/raw/master/KMR.png)
 
 #### About this repo
 It currently contains two things:
