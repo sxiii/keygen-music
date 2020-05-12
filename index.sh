@@ -3,6 +3,8 @@
 # Collection indexing script
 # Outputs number of tracks in each format
 
+cd music
+
 # # #
 # Real tracker music formats
 formats=( xm mod it v2m sc68 s3m mid ahx sid ogg sap ym fc14 rad amd d00 nsf mo3 bp fc13 spc hsc mtm )
