@@ -9,6 +9,14 @@ Large post with the idea behind this project is available here:
 * smaller post in Russian [golos.io](https://golos.io/@sxiii/keigen-radio-pereekhalo-na-blokchein-strimy-dlive-tv-securityxiii-1588972161390)
 * previous small russian post [duplicated on golos.today](https://golos.today/ru--muzyka/@sxiii/keigen-radio-pereekhalo-na-blokchein-strimy)
 
+#### About this repo
+It currently contains two things:
+* index.sh file, which allows you to build a list of tracks in various formats,
+* tracker music itself that's used in the radio stream,
+* in the future, if requested by someone, I might add scenes and profile settings from my OBS.
+
+As the music is right in the repo, and it's 5k+ tracks, the size of the repo is about 300~400 mb.
+
 #### Keygen Music Opensource Radio specifications
 As it's opensource, I am sharing my example set up that is used live on the stream right now:
 * Manjaro 19 (as host OS)
