@@ -4,6 +4,12 @@ This repository contains tracks that plays online on my stream:
 
 ### https://dlive.tv/securityxiii
 
+Second stream (which is in active testing):
+
+### https://bitwave.tv/sxiii
+
+* Note: also sometimes I test under vimm.tv/sxiii
+
 Large post with the idea behind this project is available here:
 * [steemit (english)](https://steemit.com/radio/@sxiii/10-reasons-why-chiptune-music-is-so-great-or-keygen-music-opensource-radio-announce)
 * smaller post in Russian [golos.io](https://golos.io/@sxiii/keigen-radio-pereekhalo-na-blokchein-strimy-dlive-tv-securityxiii-1588972161390)
